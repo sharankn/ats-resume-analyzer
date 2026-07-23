@@ -1,4 +1,4 @@
-# ATS Resume Analyzer
+# AI ATS Resume Analyzer
 
 ## Live Demo
 https://ats-resume-analyzer-seven.vercel.app/
