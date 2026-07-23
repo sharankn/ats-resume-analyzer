@@ -26,7 +26,7 @@ function Home({ startLoading, showResult }) {
 
     try {
       const response = await axios.post(
-        "http://127.0.0.1:8000/analyze",
+        "https://ats-resume-analyzer-41r0.onrender.com/analyze",
         formData,
         {
           headers: {
