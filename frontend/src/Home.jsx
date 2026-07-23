@@ -26,7 +26,7 @@ function Home({ startLoading, showResult }) {
 
     try {
       const response = await axios.post(
-        "https://ats-resume-analyzer-41r0.onrender.com/analyze",
+        "https://ats-resume-analyzer-4lr0.onrender.com/analyze",
         formData,
         {
           headers: {
