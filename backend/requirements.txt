@@ -1,6 +1,6 @@
-fastapi
-uvicorn
-python-multipart
-PyMuPDF
-google-genai
-python-dotenv
+fastapi==0.139.2
+uvicorn==0.51.0
+python-multipart==0.0.32
+python-dotenv==1.2.2
+PyMuPDF==1.28.0
+google-genai==2.14.0
